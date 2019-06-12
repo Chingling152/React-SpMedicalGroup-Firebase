@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "nome": "Acupuntura"
+        
+    },
+    {
+        "id": 2,
+        "nome": "Anestesiologia"
+        
+    },
+    {
+        "id": 3,
+        "nome": "Angiologia"
+        
+    },
+    {
+        "id": 4,
+        "nome": "Cardiologia"
+        
+    },
+    {
+        "id": 5,
+        "nome": "Cirurgia Cardiovascular"
+        
+    },
+    {
+        "id": 6,
+        "nome": "Cirurgia da Mão"
+        
+    },
+    {
+        "id": 7,
+        "nome": "Cirurgia do Aparelho Digestivo"
+        
+    },
+    {
+        "id": 8,
+        "nome": "Cirurgia Geral"
+        
+    },
+    {
+        "id": 9,
+        "nome": "Cirurgia Pediátrica"
+        
+    },
+    {
+        "id": 10,
+        "nome": "Cirurgia Plástica"
+        
+    },
+    {
+        "id": 11,
+        "nome": "Cirurgia Torácica"
+        
+    },
+    {
+        "id": 12,
+        "nome": "Cirurgia Vascular"
+        
+    },
+    {
+        "id": 13,
+        "nome": "Dermatologia"
+        
+    },
+    {
+        "id": 14,
+        "nome": "Radioterapia"
+        
+    },
+    {
+        "id": 15,
+        "nome": "Urologia"
+        
+    },
+    {
+        "id": 16,
+        "nome": "Pediatria"
+        
+    },
+    {
+        "id": 17,
+        "nome": "Psiquiatria"
+        
+    }
+]
